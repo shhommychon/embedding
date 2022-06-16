@@ -212,3 +212,7 @@ pip-selfcheck.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/python,venv,jupyternotebooks,visualstudiocode
+
+### Custom .gitignore ###
+.DS_Store
+**/.DS_Store
